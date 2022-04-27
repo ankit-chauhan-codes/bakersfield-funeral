@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="369" height="85" viewBox="0 0 369 85">
+  <g id="contact-address-icon" transform="translate(-190 -612)">
+    <text id="Address" transform="translate(280 625)" fill="#fff" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700" opacity="0.7"><tspan x="0" y="0">ADDRESS</tspan></text>
+    <text id="_1906_Jonagold_Ct_Bakersfield_CA_93312" data-name="1906 Jonagold Ct
+Bakersfield, CA 93312" transform="translate(280 646)" fill="#fff" font-size="21" font-family="AcuminPro-Medium, Acumin Pro" font-weight="500"><tspan x="0" y="15">1906 Jonagold Ct</tspan><tspan x="0" y="45">Bakersfield, CA 93312</tspan></text>
+    <g id="Ellipse_379" data-name="Ellipse 379" transform="translate(190 612)" fill="#7576d2" stroke="#fff" stroke-width="2">
+      <circle cx="31" cy="31" r="31" stroke="none"/>
+      <circle cx="31" cy="31" r="30" fill="none"/>
+    </g>
+    <g id="Layer_3" data-name="Layer 3" transform="translate(206.052 628.436)">
+      <path id="Path_35664" data-name="Path 35664" d="M19.348,10.245A3.744,3.744,0,1,0,15.6,14a3.744,3.744,0,0,0,3.744-3.753Zm-5.679,0a1.937,1.937,0,1,1,.564,1.374,1.935,1.935,0,0,1-.564-1.374Z" transform="translate(-0.656 -0.527)" fill="#fff"/>
+      <path id="Path_35665" data-name="Path 35665" d="M18.526,18.5c.837-1.032,1.744-2.067,2.794-3.239a8.555,8.555,0,1,0-12.509.252A38.345,38.345,0,0,1,11.4,18.494C7.516,19.188,5,20.973,5,23.156c0,2.836,4.277,4.974,9.948,4.974S24.9,25.992,24.9,23.156C24.9,20.978,22.394,19.2,18.526,18.5ZM8.2,9.667a6.747,6.747,0,1,1,11.77,4.385C18.564,15.622,17.4,16.958,16.3,18.4c-.062.082-.127.166-.165.222-.3.381-.585.771-.865,1.163l-.319.452c-.38-.543-.769-1.064-1.141-1.564-.066-.1-.142-.206-.207-.289a42.2,42.2,0,0,0-3.494-4.132A6.673,6.673,0,0,1,8.2,9.667Zm6.746,16.654c-4.658,0-8.139-1.671-8.139-3.165,0-1.138,2.216-2.571,5.828-3.02.286.385.572.768.849,1.165l.723,1.022a.9.9,0,0,0,1.475,0l1.056-1.489c.163-.228.345-.465.52-.7,3.61.45,5.826,1.883,5.826,3.021C23.087,24.65,19.606,26.321,14.948,26.321Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

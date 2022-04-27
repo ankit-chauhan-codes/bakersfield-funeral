@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="photo-presentation-icon" transform="translate(-250 -133)">
+    <g id="Ellipse_377" data-name="Ellipse 377" transform="translate(250 133)" fill="#7576d2" stroke="#fff" stroke-width="2">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="49" fill="none"/>
+    </g>
+    <g id="camera_1_" data-name="camera (1)" transform="translate(279 163)">
+      <path id="Path_35662" data-name="Path 35662" d="M36.131,8.333H30.405l-.667-2A4.86,4.86,0,0,0,25.119,3H16.881a4.861,4.861,0,0,0-4.619,3.333l-.668,2H5.869A4.875,4.875,0,0,0,1,13.2V32.8a4.875,4.875,0,0,0,4.869,4.864H36.136A4.875,4.875,0,0,0,41,32.8V13.2a4.875,4.875,0,0,0-4.869-4.864Zm2.2,24.464a2.205,2.205,0,0,1-2.2,2.2H5.869a2.205,2.205,0,0,1-2.2-2.2V13.2a2.205,2.205,0,0,1,2.2-2.2h6.687a1.333,1.333,0,0,0,1.264-.912l.972-2.916a2.2,2.2,0,0,1,2.089-1.505h8.237a2.2,2.2,0,0,1,2.089,1.507l.972,2.915A1.333,1.333,0,0,0,29.444,11h6.687a2.205,2.205,0,0,1,2.2,2.2Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_35663" data-name="Path 35663" d="M18.5,10a10,10,0,1,0,10,10,10,10,0,0,0-10-10Zm0,17.333A7.333,7.333,0,1,1,25.833,20,7.333,7.333,0,0,1,18.5,27.333Z" transform="translate(2.5 2.333)" fill="#fff"/>
+      <ellipse id="Ellipse_378" data-name="Ellipse 378" cx="0.95" cy="1.425" rx="0.95" ry="1.425" transform="translate(33.352 13.682)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
