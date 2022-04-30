@@ -582,3 +582,137 @@ html, body{
 /* follow */
 
 
+/* contact */
+#contact{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: url(../images/contact-bg-img.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+#contact h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #FFFFFF;
+    max-width: 80%;
+}
+
+#contact p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #D1D2D0;
+}
+
+#contact h5{
+    font-family: acumin-pro, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44;
+    color: #D1D2D0;
+    text-transform: uppercase;   
+}
+
+#contact .contact-icon-text p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #FFFFFF;
+}
+
+#contact .contact-icon-text a{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+}
+
+#contact .contact-box{
+    padding-top: 70px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+    max-width: 560px;
+    background: #ffffff;
+    border-radius: 10px;
+ }
+
+ #contact h4{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 1.33;
+    color: #00263E;
+ }
+
+ #contact .contact-box form label{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #00263E;
+    font-size: 18px;
+    line-height: 1.44;
+    text-transform: uppercase;
+ }
+
+ #contact .contact-box form input{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #7576D2;
+    font-size: 18px;
+    line-height: 1.44;
+     border: none;
+     border-bottom: 2px solid #EDEDF5;
+     border-radius: 0;
+     box-shadow: none;
+     margin-top: -7px;
+     padding: 6px 0;
+ }
+
+ #contact .contact-box form input:hover,
+ #contact .contact-box form input:active,
+ #contact .contact-box form input:focus{
+    border: none;
+    border-bottom: 2px solid #7576D2;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+#contact .contact-box form textarea{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #7576D2;
+    font-size: 18px;
+    line-height: 1.44;
+     border: none;
+     border-bottom: 2px solid #EDEDF5;
+     border-radius: 0;
+     box-shadow: none;
+ }
+
+ #contact .contact-box form textarea:hover,
+ #contact .contact-box form textarea:active,
+ #contact .contact-box form textarea:focus{
+    border: none;
+    border-bottom: 2px solid #7576D2;
+    border-radius: 0;
+    box-shadow: none;
+ }
+/* contact */
+
