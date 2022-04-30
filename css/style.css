@@ -79,3 +79,35 @@ html, body{
 /* nav */
 
 
+/* home */
+#home{
+    padding-top: 280px;
+    padding-bottom: 280px;
+    background: url(../images/header-bg.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
+
+#home h1{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 72px;
+    line-height: 1.08;
+    color: #FFFFFF;
+}
+
+#home p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.38;
+    color: #D1D2D0;
+}
+
+#home .home-icon img{
+    margin-left: 76%;
+}
+/* home */
+
