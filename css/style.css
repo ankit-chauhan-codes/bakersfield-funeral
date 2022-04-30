@@ -263,3 +263,49 @@ html, body{
 }
 /* services */
 
+/* steps */
+#steps{
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-color: #EDEDF5;
+}
+
+#steps h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E;
+}
+
+#steps p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #5B5B7B;
+    max-width: 82%;
+    margin-bottom: 60px;
+}
+
+#steps h5{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 1.33;
+    color: #00263E;
+}
+
+#steps .step-icon-text p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44;
+    color: #5B5B7B;
+}
+/* steps */
+
