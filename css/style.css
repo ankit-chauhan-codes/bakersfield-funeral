@@ -486,3 +486,52 @@ html, body{
 /* gallery */
 
 
+/* about */
+#about{
+    padding-top: 120px;
+    padding-bottom: 125px;
+    background-color: #EDEDF5;
+}
+
+#about .about-img img{
+    width: 100%;
+}
+
+#about h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E;
+}
+
+#about h6{
+    font-family: acumin-pro, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #5B5B7B;
+}
+
+#about p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #5B5B7B;
+}
+
+#about li{
+    font-family: acumin-pro, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #5B5B7B;
+}
+/* about */
+
+
