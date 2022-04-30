@@ -143,3 +143,48 @@ html, body{
 }
 /* qualities */
 
+/* stakes */
+#stakes{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #EDEDF5;
+}
+
+#stakes img{
+    width: 100%;
+    border-radius: 10px; 
+}
+
+#stakes .stakes-body{
+    margin-left: 15%;
+    padding: 0;
+}
+
+#stakes h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E ;
+}
+
+#stakes h6{
+    font-family: acumin-pro, serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #2F4D62;
+}
+
+#stakes p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #2F4D62;
+}
+/* stakes */
+
