@@ -421,3 +421,68 @@ html, body{
 /* cta */
 
 
+/* testimonial */
+#testimonial{
+    padding-top: 130px;
+    padding-bottom: 120px;
+}
+
+#testimonial h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E;
+    max-width: 50%;
+    margin: auto;
+}
+
+#testimonial .testimonial-box{
+    padding: 60px 60px 52px 60px;
+    background-color:#EDEDF5;
+    border-radius: 10px; 
+}
+
+#testimonial p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.42;
+    color: #5B5B7B;
+}
+
+#testimonial h5{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 1.33;
+    color: #2F4D62;
+}
+/* testimonial */
+
+
+/* gallery */
+#gallery{
+    padding-top: 50px;
+    padding-bottom: 140px;
+}
+
+#gallery h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E;
+}
+
+#gallery .gallery-img img{
+    width: 100%;
+    border-radius: 10px;
+}
+/* gallery */
+
+
