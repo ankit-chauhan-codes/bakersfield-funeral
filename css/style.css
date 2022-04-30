@@ -2,11 +2,40 @@ html, body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: myriad-pro, sans-serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 .container{
     max-width: 1400px;
 }
+
+.btn{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 700; 
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: 1.11px; 
+    border-radius: 50px;
+    text-decoration: none;
+    background-color: transparent;
+    color: #00263E;
+    padding: 18px 40px;
+    text-transform: uppercase;
+}
+
+.primary-btn{
+    background-color: #7576D2;
+    color: #FFFFFF;
+}
+
+.primary-btn:hover{
+    background-color: #00263E;
+    color: #EDEDF5;
+}
+ 
+.secondary-btn{
+    background-color: #00263E;
+    color: #FFFFFF;
+}
+
+
