@@ -716,3 +716,45 @@ html, body{
  }
 /* contact */
 
+/* footer */
+#footer .footer-top{
+    background: #181B1A;
+    background-size: cover;
+}
+
+#footer .footer-top .footer-links{
+    padding-top: 80px;
+}
+
+#footer .footer-top .social-icons{
+    padding-bottom: 60px;
+}
+
+#footer .footer-top .footer-links a{
+    text-decoration: none;
+    color: #C5C6C6;
+    font-family: acumin-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44;
+    padding: 0 35px;
+    border-right: 3px solid #302E2F;
+}
+
+#footer .footer-bottom{
+    padding-top: 9px;
+    padding-bottom: 8px;
+    background: #303231;
+}
+
+#footer .footer-bottom p{
+    font-family: acumin-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #8C8D8D;
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: -0.36;
+}
+/* footer */
