@@ -309,3 +309,50 @@ html, body{
 }
 /* steps */
 
+/* work */
+#work{
+    padding-top: 140px;
+    padding-bottom: 50px;
+    background: url(../images/work-bg-png.png) no-repeat;
+    background-position: cover;
+    width: 100%;
+}
+
+#work .work-img img{
+    width: 100%;
+    border-radius: 10px; 
+}
+
+#work .work-play-icon img{
+    transform:translateY(-325px);
+}
+
+#work .work-dot-icon img{
+    transform:translateY(-30px);
+}
+
+#work .work-body{
+   transform: translateX(120px);
+   margin-top: -60px;
+}
+
+#work h2{
+    font-family: playfair-display, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13;
+    color: #00263E ;
+}
+
+#work p{
+    font-family: acumin-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.44;
+    color: #5B5B7B;
+    max-width: 80%;
+}
+/* work */
+
