@@ -546,7 +546,11 @@ html, body{
     font-style: normal;
     font-size: 60px;
     line-height: 0.86;
-    color: #7576D2;
+    color: #00263E;
+}
+
+#follow .follow-link{
+    transform: translateY(-15px);
 }
 
 #follow a{
